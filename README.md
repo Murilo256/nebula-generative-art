@@ -16,6 +16,7 @@ NEBULA é um laboratório de arte generativa executado diretamente no navegador.
 - **Animação:** pause e retome o movimento quando quiser.
 - **Interação:** clique na tela para criar ondas de luz.
 - **Exportação:** salve sua composição como imagem PNG.
+- **Compartilhamento reproduzível:** copie um link que preserva a seed, a paleta, a densidade e o brilho da composição.
 - **Sem build:** abra o arquivo index.html ou publique no GitHub Pages.
 
 ## 🚀 Como executar
